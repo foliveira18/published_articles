@@ -38,7 +38,7 @@ OLIVEIRA, F.S. 2023. Procurement risk management in a petroleum refinery. Decisi
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202023%20Procurement%20risk%20management%20(AAM).pdf)
 
 OLIVEIRA, F. S., ZAHUR,  N. B., and WU, F., 2023. Analysis of the Optimal Policy for Managing Strategic Petroleum Reserves under Long-Term Uncertainty: The ASEAN Case. Computers & Industrial Engineering, 175 (Online).
----
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202023%20Analysis%20of%20the%20optimal%20policy%20(VOR).pdf)
 
 OLIVEIRA, F.S. 2022. A causal map analysis of supply chain decentralization. Journal of computer information systems [online], 62(2), pages 205-215. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202022%20A%20causal%20map%20analysis%20(AAM).pdf)
@@ -83,7 +83,7 @@ ANSARIPOOR, A.H. and OLIVEIRA, F.S. 2014. Robust supply chain risk management. I
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202014%20Robust%20Supply%20Chain.pdf)
 
 GULPINAR, N. and OLIVEIRA, F. S., 2014. Analysis of the Relationship between Forward and Spot Markets in Oligopolies under Demand and Cost Uncertainty. Computational Management Science, 11(3): 267-283. 
----
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/GU%CC%88LP__NAR%202014%20Analysis%20of%20relationship%20between.pdf)
 
 RANA, R. and OLIVEIRA, F.S. 2014. Real-time dynamic pricing in a non-stationary environment using model-free reinforcement learning. Omega [online], 47, pages 116-126. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/RANA%202014%20Real-time%20dynamic%20pricing.pdf)
@@ -98,8 +98,7 @@ OLIVEIRA, F.S., RUIZ, C. and CONEJO, A.J. 2013. Contract design and supply chain
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202013%20Contract%20design%20and%20supply%20chain.pdf)
 
 GULPINAR, N. and OLIVEIRA, F. S., 2012. Robust Trading in Spot and Forward Oligopolistic Markets. International Journal of Production Economics, 138 (1): 35-45. 
-[Download PDF]()
----
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/GU%CC%88LP__NAR%202012%20Robust%20trading%20in%20spot.pdf)
 
 MURPHY, F. and OLIVEIRA, F.S. 2010. Developing a market-based approach to managing the US strategic petroleum reserve. European journal of operational research [online], 206(2), pages 488-495. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/MURPHY%202010%20Developing%20a%20market-based.pdf)
@@ -111,16 +110,13 @@ OLIVEIRA, F.S. 2010. Modeling emotions and reason in agent-based systems. Comput
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202010%20Modeling%20emotions%20and%20reason.pdf)
 
 OLIVEIRA, F. S. 2010. Bottom-up Design of Strategic Options as Finite Automata. Computational Management Science, 7 (4): 355-375. 
-[Download PDF]
----
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202010%20Bottom-up%20design%20of%20strategic.pdf)
 
 CALDART, A. and OLIVEIRA, F.S., 2010. Analysing industry profitability: A “complexity as cause” perspective. European Management Journal, 28 (2): 95-107.  
-[Download PDF]
----
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/CALDART%202010%20Analysing%20industry%20profitability.pdf)
 
 MOREIRA, A., OLIVEIRA, F. S., and Pereira, J., 2010. Social welfare analysis of the Iberian electricity market accounting for carbon emission prices. IET Gener. Transm. Distrib., 4 (2): 231–243.
-[Download PDF]
----
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/MOREIRA%202010%20Social%20welfare%20analysis%20of%20the%20Iberian.pdf)
 
 BUNN, D.W. and OLIVEIRA, F.S. 2008. Modeling the impact of market interventions on the strategic evolution of electricity markets. Operations research [online], 56(5), pages 1116-1130. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202008%20Modeling%20the%20impact%20of%20market.pdf)
@@ -129,8 +125,7 @@ OLIVEIRA, F.S. 2008. A constraint logic programming algorithm for modeling dynam
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202008%20A%20constraint%20logic%20programming.pdf)
 
 OLIVEIRA, F.S., 2008. The Value of Information in Electricity Investment Games. Energy Policy, 36: 2364–2375.
-[Download PDF]
----
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202008%20The%20value%20of%20information.pdf)
 
 BUNN, D.W. and OLIVEIRA, F.S. 2007. Agent-based analysis of technological diversification and specialization in electricity markets. European journal of operational research [online], 181(3), pages 1265-1278.
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202007%20Agent-based%20analysis%20of%20technological.pdf)
@@ -141,21 +136,14 @@ DYSON, R.G. and OLIVEIRA, F.S. 2007. Flexibility, robustness and real options. I
 CALDART, A.A. and OLIVEIRA, F.S. 2007. The impact of organisational complexity in the strategy development process. In Dyson, R.G. and O'Brien, F.A. (eds.) Supporting strategy: frameworks, methods and models. Chichester, Wiley, chapter 8, pages 191-210.
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/CALDART%202007%20The%20Impact.pdf)
 
-
 OLIVEIRA, F. S.,and RANA, R., Business to Business Online Revenue Management. In “Service Chain Management – Technology Innovation for the Service Industry,” C. Voudouris, G. Owuso, R. Dorne and D. Lesaint (Ed.), Springer, 2007.
 [Download PDF]
----
 
 BUNN, D.W. and OLIVEIRA, F.S. 2003. Evaluating individual market power in electricity markets via agent-based simulation. Annals of operations research [online], 121(1-4), pages 57-77. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202003%20Evaluating%20individual%20market.pdf)
 
 BUNN, D.W. and OLIVEIRA, F.S. 2001. Agent-based simulation: an application to the new electricity trading arrangements of England and Wales. IEEE transactions on evolutionary computation [online], 5(5), pages 493-503.
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202001%20Agent-based%20simulation.pdf)
-
-
-
-
-
 
 
 ---
