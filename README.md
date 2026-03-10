@@ -1,2 +1,34 @@
 # published_articles
-Contains copies of my scientific articles.
+# Academic Articles Repository
+Fernando S. Oliveira
+
+This repository contains working papers, published articles, and research material in the areas of:
+- Risk Analysis
+- Supply Chain Management
+- Artificial Intelligence and Decision Making
+- Blockchain and Information Systems
+
+## Articles
+
+### Risk Analysis and Treatment Strategies
+LIU, C.-Y., OLIVEIRA, F.S. and YOU, T.-H. 2024. The impact of platform audits on the manipulation of online reviews. International journal of production economics [online], 275, article number 109323. Available from: https://doi.org/10.1016/j.ijpe.2024.109323
+[Download PDF](papers/)
+
+
+---
+
+### Example Paper Title
+Short description of the paper.
+
+PDF:  
+[Download PDF](papers/example_paper.pdf)
+
+---
+
+## About the Author
+
+Fernando S. Oliveira is a researcher in operations management, risk analytics, and artificial intelligence applied to decision-making and supply chains.
+
+## License
+
+These papers are provided for academic dissemination. Please cite appropriately.
