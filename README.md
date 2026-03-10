@@ -13,14 +13,11 @@ These articles are shared for academic dissemination and research collaboration.
 ---
 ## Articles
 
-LIU, C.-Y., OLIVEIRA, F. S., and YOU, T.-H. 2025. Analysis of the Determinants of Film Quality Considering a Risk-Averse Producer and Consumer Learning from Online Reviews. Journal of the Operational Research Society. (abdc: A, cabs:  3)  
----
+LIU, C.-Y., OLIVEIRA, F. S., and YOU, T.-H. 2025. Analysis of the Determinants of Film Quality Considering a Risk-Averse Producer and Consumer Learning from Online Reviews. Journal of the Operational Research Society.   
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/LIU%202025%20Analysis%20of%20the%20Determinants%20.pdf)
 
 OLIVEIRA, F. S.  and RUIZ, C. 2025. Management using Weather Derivatives in Solar Power Plants. International Journal of Production Research, 63 (21), 8074-8090.
----
-
-
-====
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202025%20Risk%20Management%20in%20SOLAR.pdf)
 
 LIU, C.-Y., OLIVEIRA, F.S. and YOU, T.-H. 2024. The impact of platform audits on the manipulation of online reviews. International journal of production economics [online], 275, article number 109323. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/LIU%202024%20The%20impact%20of%20platform%20audits%20(AAM).pdf)
