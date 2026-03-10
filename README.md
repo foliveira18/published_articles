@@ -59,6 +59,32 @@ ANSARIPOOR, A.H., OLIVEIRA, F.S. and LIRET, A. 2016. Recursive expected conditio
 RANA, R. and OLIVEIRA, F.S. 2015. Dynamic pricing policies for interdependent perishable products or services using reinforcement learning. Expert systems with applications [online], 42(1), pages 426-436. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/RANA%202015%20Dynamic%20pricing%20policies.pdf)
 
+OLIVEIRA, F.S. 2014. Reinforcement learning for business modeling. In Wang, J. (ed.) Encyclopedia of business analytics and optimization. Hershey: IGI Global [online], chapter 181, pages 2010-2019.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202014%20Reinforcement%20learning%20(AAM).pdf)
+
+OLIVEIRA, F.S. 2014. Finite automata games: basic concepts. In Wang, J. (ed.) Encyclopedia of business analytics and optimization. Hershey: IGI Global [online], chapter 88, pages 951-959. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202014%20Finite%20automata%20games%20(AAM).pdf)
+
+ANSARIPOOR, A.H., OLIVEIRA, F.S. and LIRET, A. 2014. A risk management system for sustainable fleet replacement. European journal of operational research [online], 237(2), pages 701-712.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202014%20A%20risk%20management%20system.pdf)
+
+ANSARIPOOR, A.H. and OLIVEIRA, F.S. 2014. Robust supply chain risk management. In Wang, J. (ed.) Encyclopedia of business analytics and optimization. Hershey: IGI Global [online], chapter 188, pages 2093-2103.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202014%20Robust%20Supply%20Chain.pdf)
+
+ANSARIPOOR, A.H., OLIVEIRA, F.S. and LIRET, A. 2013. The asset replacement problem state of the art. In Owusu, G., O'Brien, P., McCall, J. and Doherty, N.F. (eds.) Transforming field and service operations: methodologies for successful technology-driven business transformation. Berlin: Springer [online], chapter 14, pages 213-233. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202013%20The%20asset%20replacement%20problem%20(AAM%20v1)%20(1).pdf)
+
+RANA, R. and OLIVEIRA, F.S. 2014. Real-time dynamic pricing in a non-stationary environment using model-free reinforcement learning. Omega [online], 47, pages 116-126. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/RANA%202014%20Real-time%20dynamic%20pricing.pdf)
+
+
+MURPHY, F. and OLIVEIRA, F.S. 2013. Pricing option contracts on the strategic petroleum reserve. Energy economics [online], 40, pages 242-250. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/MURPHY%202013%20Pricing%20option%20contracts.pdf)
+
+
+
+
+
 
 ---
 
