@@ -1,4 +1,3 @@
-# published_articles
 # Academic Articles Repository
 Fernando S. Oliveira
 
