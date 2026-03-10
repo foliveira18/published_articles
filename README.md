@@ -77,9 +77,42 @@ ANSARIPOOR, A.H., OLIVEIRA, F.S. and LIRET, A. 2013. The asset replacement probl
 RANA, R. and OLIVEIRA, F.S. 2014. Real-time dynamic pricing in a non-stationary environment using model-free reinforcement learning. Omega [online], 47, pages 116-126. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/RANA%202014%20Real-time%20dynamic%20pricing.pdf)
 
-
 MURPHY, F. and OLIVEIRA, F.S. 2013. Pricing option contracts on the strategic petroleum reserve. Energy economics [online], 40, pages 242-250. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/MURPHY%202013%20Pricing%20option%20contracts.pdf)
+
+OLIVEIRA, F.S., RUIZ, C. and CONEJO, A.J. 2013. Contract design and supply chain coordination in the electricity industry. European journal of operational research [online], 227(3), pages 527-537.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202013%20Contract%20design%20and%20supply%20chain.pdf)
+
+MURPHY, F. and OLIVEIRA, F.S. 2010. Developing a market-based approach to managing the US strategic petroleum reserve. European journal of operational research [online], 206(2), pages 488-495. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/MURPHY%202010%20Developing%20a%20market-based.pdf)
+
+OLIVEIRA, F.S. 2010. Limitations of learning in automata-based systems. European journal of operational research [online], 203(3), pages 684-691. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202010%20Limitations%20of%20learning%20in%20automata.pdf)
+
+OLIVEIRA, F.S. 2010. Modeling emotions and reason in agent-based systems. Computational economics [online], 35(2), pages 155-164. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202010%20Modeling%20emotions%20and%20reason.pdf)
+
+BUNN, D.W. and OLIVEIRA, F.S. 2008. Modeling the impact of market interventions on the strategic evolution of electricity markets. Operations research [online], 56(5), pages 1116-1130. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202008%20Modeling%20the%20impact%20of%20market.pdf)
+
+OLIVEIRA, F.S. 2008. A constraint logic programming algorithm for modeling dynamic pricing. INFORMS journal on computing [online], 20(1), pages 69-77. Available from: https://doi.org/10.1287/ijoc.1060.0218
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202008%20A%20constraint%20logic%20programming.pdf)
+
+BUNN, D.W. and OLIVEIRA, F.S. 2007. Agent-based analysis of technological diversification and specialization in electricity markets. European journal of operational research [online], 181(3), pages 1265-1278.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202007%20Agent-based%20analysis%20of%20technological.pdf)
+
+DYSON, R.G. and OLIVEIRA, F.S. 2007. Flexibility, robustness and real options. In Dyson, R.G. and O'Brien, F.A. (eds.) Supporting strategy: frameworks, methods and models. Chichester, Wiley, chapter 13, pages 343-366.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/DYSON%202007%20CH13.pdf)
+
+CALDART, A.A. and OLIVEIRA, F.S. 2007. The impact of organisational complexity in the strategy development process. In Dyson, R.G. and O'Brien, F.A. (eds.) Supporting strategy: frameworks, methods and models. Chichester, Wiley, chapter 8, pages 191-210.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/CALDART%202007%20The%20Impact.pdf)
+
+BUNN, D.W. and OLIVEIRA, F.S. 2003. Evaluating individual market power in electricity markets via agent-based simulation. Annals of operations research [online], 121(1-4), pages 57-77. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202003%20Evaluating%20individual%20market.pdf)
+
+BUNN, D.W. and OLIVEIRA, F.S. 2001. Agent-based simulation: an application to the new electricity trading arrangements of England and Wales. IEEE transactions on evolutionary computation [online], 5(5), pages 493-503.
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202001%20Agent-based%20simulation.pdf)
+
 
 
 
