@@ -1,17 +1,31 @@
-# Academic Articles Repository
-Fernando S. Oliveira
+# Academic Publications
+### Fernando S. Oliveira
+This repository contains selected **peer-reviewed publications and working papers** in the areas of:
 
-This repository contains working papers, published articles, and research material in the areas of:
-- Risk Analysis
+- Risk Analysis and Risk Management
 - Supply Chain Management
-- Artificial Intelligence and Decision Making
+- Artificial Intelligence and Reinforcement Learning
+- Energy Markets and Infrastructure Investment
 - Blockchain and Information Systems
+
+These articles are shared for academic dissemination and research collaboration.
+
+---
+## Research Overview
+
+My research focuses on **data-driven decision making under uncertainty**, particularly in complex economic and operational environments. Key themes include:
+
+- Reinforcement learning for operational decisions
+- Market design and investment in energy systems
+- Supply chain governance and decentralization
+- Digital platforms and online market manipulation
+- Risk management and organizational decision processes
 
 ## Articles
 
-### The impact of platform audits on the manipulation of online reviews
+The impact of platform audits on the manipulation of online reviews. [Download PDF](https://github.com/foliveira18/published_articles/blob/main/LIU%202024%20The%20impact%20of%20platform%20audits%20(AAM).pdf)
 LIU, C.-Y., OLIVEIRA, F.S. and YOU, T.-H. 2024. The impact of platform audits on the manipulation of online reviews. International journal of production economics [online], 275, article number 109323. 
-[Download PDF](https://github.com/foliveira18/published_articles/blob/main/LIU%202024%20The%20impact%20of%20platform%20audits%20(AAM).pdf)
+
 
 ### Capacity expansion in liberalized electricity markets with locational pricing and renewable energy investments
 OLIVEIRA, F.S., WILLIAM-RIOUX, B. and PIERRU, A. 2023. Capacity expansion in liberalized electricity markets with locational pricing and renewable energy investments. Energy economics [online], 127(B), article number 106958. 
