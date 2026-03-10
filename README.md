@@ -9,7 +9,7 @@ This repository contains working papers, published articles, and research materi
 
 ## Articles
 
-# The impact of platform audits on the manipulation of online reviews
+#### The impact of platform audits on the manipulation of online reviews
 LIU, C.-Y., OLIVEIRA, F.S. and YOU, T.-H. 2024. The impact of platform audits on the manipulation of online reviews. International journal of production economics [online], 275, article number 109323. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/LIU%202024%20The%20impact%20of%20platform%20audits%20(AAM).pdf)
 
