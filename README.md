@@ -25,7 +25,7 @@ LIU, C.-Y., OLIVEIRA, F.S. and YOU, T.-H. 2024. The impact of platform audits on
 OLIVEIRA, F.S., WILLIAM-RIOUX, B. and PIERRU, A. 2023. Capacity expansion in liberalized electricity markets with locational pricing and renewable energy investments. Energy economics [online], 127(B), article number 106958. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202023%20Capacity%20expansion%20in%20liberalized.pdf)
 
-OLIVEIRA, F.S. 2023. The emergence of social inequality: a co-evolutionary analysis. Journal of economic behavior and organization [online], 215, pages 192-206. Available from:
+OLIVEIRA, F.S. 2023. The emergence of social inequality: a co-evolutionary analysis. Journal of economic behavior and organization [online], 215, pages 192-206. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202023%20The%20emergence%20of%20social%20inequality%20(VOR).pdf)
 
 MANDANIA, R. and OLIVEIRA, F.S. 2023. Dynamic pricing of regulated field services using reinforcement learning. IISE transactions [online], 55(10), pages 1022-1034. 
