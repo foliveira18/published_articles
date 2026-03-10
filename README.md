@@ -40,7 +40,24 @@ OLIVEIRA, F.S. 2022. A causal map analysis of supply chain decentralization. Jou
 OLIVEIRA, F.S. and COSTA, M.L.G. 2018. Capacity expansion under uncertainty in an oligopoly using indirect reinforcement-learning. European journal of operational research [online], 267(3), pages 1039-1050. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202018%20Capacity%20expansion%20under%20uncertainty.pdf)
 
+ANSARIPOOR, A.H. and OLIVEIRA, F.S. 2018. Flexible lease contracts in the fleet replacement problem with alternative fuel vehicles: a real-options approach. European journal of operational research [online], 266(1), pages 316-327. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202018%20Flexible%20lease%20contracts.pdf)
 
+OLIVEIRA, F.S. 2017. Strategic procurement in spot and forward markets considering regulation and capacity constraints. European journal of operational research [online], 261(2), pages 540-548. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202017%20Strategic%20procurement%20in%20spot.pdf)
+
+OLIVEIRA, F.S. 2018. A creativity support system based on causal mapping. Journal of computer information systems [online], 58(2), pages 99-109. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202018%20A%20creativity%20support%20system.pdf)
+
+BUNN, D.W. and OLIVEIRA, F.S. 2016. Dynamic capacity planning using strategic slack valuation. European journal of operational research [online], 253(1), pages 40-50. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202016%20Dynamic%20capacity%20planning%20using.pdf)
+
+
+ANSARIPOOR, A.H., OLIVEIRA, F.S. and LIRET, A. 2016. Recursive expected conditional value at risk in the fleet renewal problem with alternative fuel vehicles. Transportation research part C: emerging technologies [online], 65, pages 156-171. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202016%20Recursive%20expected%20conditional.pdf)
+
+RANA, R. and OLIVEIRA, F.S. 2015. Dynamic pricing policies for interdependent perishable products or services using reinforcement learning. Expert systems with applications [online], 42(1), pages 426-436. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/RANA%202015%20Dynamic%20pricing%20policies.pdf)
 
 
 ---
