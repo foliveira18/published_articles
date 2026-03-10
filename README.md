@@ -118,7 +118,7 @@ MOREIRA, A., OLIVEIRA, F. S., and Pereira, J., 2010. Social welfare analysis of 
 BUNN, D.W. and OLIVEIRA, F.S. 2008. Modeling the impact of market interventions on the strategic evolution of electricity markets. Operations research [online], 56(5), pages 1116-1130. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202008%20Modeling%20the%20impact%20of%20market.pdf)
 
-OLIVEIRA, F.S. 2008. A constraint logic programming algorithm for modeling dynamic pricing. INFORMS journal on computing [online], 20(1), pages 69-77. Available from: https://doi.org/10.1287/ijoc.1060.0218
+OLIVEIRA, F.S. 2008. A constraint logic programming algorithm for modeling dynamic pricing. INFORMS journal on computing [online], 20(1), pages 69-77. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/OLIVEIRA%202008%20A%20constraint%20logic%20programming.pdf)
 
 OLIVEIRA, F.S., 2008. The Value of Information in Electricity Investment Games. Energy Policy, 36: 2364–2375.
