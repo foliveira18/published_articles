@@ -86,8 +86,7 @@ RANA, R. and OLIVEIRA, F.S. 2014. Real-time dynamic pricing in a non-stationary 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/RANA%202014%20Real-time%20dynamic%20pricing.pdf)
 
 ANSARIPOOR, A.H., OLIVEIRA, F.S. and LIRET, A. 2013. The asset replacement problem state of the art. In Owusu, G., O'Brien, P., McCall, J. and Doherty, N.F. (eds.) Transforming field and service operations: methodologies for successful technology-driven business transformation. Berlin: Springer [online], chapter 14, pages 213-233. 
-[Download PDF]
-(https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202013%20The%20asset%20replacement%20problem%20(AAM%20v1).pdf)
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/ANSARIPOOR%202013%20The%20asset%20replacement%20problem%20(AAM%20v1).pdf)
 
 
 
