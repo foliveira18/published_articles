@@ -136,6 +136,12 @@ CALDART, A.A. and OLIVEIRA, F.S. 2007. The impact of organisational complexity i
 OLIVEIRA, F. S.,and RANA, R., Business to Business Online Revenue Management. In “Service Chain Management – Technology Innovation for the Service Industry,” C. Voudouris, G. Owuso, R. Dorne and D. Lesaint (Ed.), Springer, 2007.
 [Download PDF]
 
+SHAKYA, S., OLIVEIRA, F. and OWUSU, G. 2007. An application of EDA and GA to dynamic pricing. In Proceedings of
+the 9th Annual conference on genetic and evolutionary computation (GECCO '07), 7-11 July 2007, London, UK. New
+York: ACM [online], pages 585-592. 
+[Download PDF](https://github.com/foliveira18/published_articles/blob/main/SHAKYA%202007%20An%20application%20of%20EDA%20(AAM).pdf)
+
+
 BUNN, D.W. and OLIVEIRA, F.S. 2003. Evaluating individual market power in electricity markets via agent-based simulation. Annals of operations research [online], 121(1-4), pages 57-77. 
 [Download PDF](https://github.com/foliveira18/published_articles/blob/main/BUNN%202003%20Evaluating%20individual%20market.pdf)
 
